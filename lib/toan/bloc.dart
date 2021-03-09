@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'BLoC Core Concepts - Streams, Blocs, Cubits '),
+      home: MyHomePage(title: 'BLoC Core Concepts - Streams, Blocs, Cubits - Test'),
     );
   }
 }
